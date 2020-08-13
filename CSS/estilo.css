@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #CCC;
+}
+
+.Branco{
+    color: red;
+    font-size: 76px;
+}
+
+#area-topo{
+    width: 100%;
+    background-color: rgb(63, 60, 60);
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Servicos{
+    margin: 5px;
+    width: 45%;
+    background: #015272;
+    text-align: left;
+    float: left;
+}
+.agendamento{
+    width: 45%;
+    background: #015272;
+    text-align: right;
+    float: right;
+}
+.parceiros{
+    margin-top: 5px;
+    width: 45%;
+    background: #015272;
+    text-align: left;
+    float: left;
+}
