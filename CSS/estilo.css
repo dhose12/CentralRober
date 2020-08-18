@@ -3,7 +3,8 @@
     padding: 0px;
 }
 body{
-    background: #CCC;
+    background: #015272;
+    width: 100%;
 }
 
 .Branco{
@@ -18,24 +19,56 @@ body{
     margin: 5px;
     padding: 5px;
 }
+img{
+    margin-block-end: 5px;
+    padding: 5px;
+}
+.fotos{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+    background: #c1e9f8;
+    text-align: center;
+    
+}
 
 .Servicos{
     margin: 5px;
     width: 45%;
-    background: #015272;
+    background: #e3e8eb;
     text-align: left;
     float: left;
 }
 .agendamento{
     width: 45%;
-    background: #015272;
-    text-align: right;
+    background: #e3e8eb;
+    text-align: center;
     float: right;
+   }
+   .area-contato{
+    width: auto;
+    background: #e3e8eb; 
+    text-align-last: center;
+    float: right;
+    margin: 2px;
+    padding: 2px;
 }
 .parceiros{
     margin-top: 5px;
     width: 45%;
-    background: #015272;
+    background: #e3e8eb;
     text-align: left;
-    float: left;
+}
+.color{
+    color: #f80d04;
+    font-size:66;
+    
+}
+.area-cabecalho{
+    width: 100%;
+    background: #000000;
+    text-align:center;
+    margin: 5px;
+    padding: 5px;
 }
